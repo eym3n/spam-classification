@@ -2,6 +2,13 @@
 
 This project implements an email spam detection model using machine learning techniques. The model is trained on a dataset of emails labeled as either "spam" or "ham" (non-spam).
 
+## Table of Contents
+
+- [Dataset](#dataset)
+- [Model](#model)
+- [Usage](#usage)
+- [Results](#results)
+
 ## Dataset
 
 The dataset used in this project is located in the `input/mail_data.csv` file. It contains a collection of emails labeled as spam or ham.
